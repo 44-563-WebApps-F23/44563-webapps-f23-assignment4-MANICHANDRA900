@@ -14,6 +14,12 @@
     background-color: #b9c4b0; 
     color: #f50a0a;
 }
+.MrsStockmann:hover{
+    color: rgb(249, 56, 8);
+    font-size: 20px;
+    text-shadow: 5px 5px 3px #8909e4;
+    border-style: dotted;
+}
 .MrsStockmann{
     color: blue;
     font-size: 16px;
